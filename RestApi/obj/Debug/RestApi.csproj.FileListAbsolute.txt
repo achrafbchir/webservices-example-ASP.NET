@@ -1,0 +1,823 @@
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\ApplicationInsights.config
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\RestApi.dll.config
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\RestApi.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\RestApi.pdb
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\csc.exe
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\csc.exe.config
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\csc.rsp
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\csi.exe
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\csi.exe.config
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\csi.rsp
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.AppContext.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.Console.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\vbc.exe
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\vbc.exe.config
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\vbc.rsp
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Antlr3.Runtime.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\EntityFramework.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\EntityFramework.SqlServer.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.AI.Web.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.Owin.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.Owin.Security.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Newtonsoft.Json.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Owin.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Net.Http.Formatting.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Web.Helpers.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Web.Http.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Web.Http.Owin.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Web.Http.WebHost.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Web.Mvc.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Web.Optimization.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Web.Razor.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Web.WebPages.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\WebGrease.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Newtonsoft.Json.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Net.Http.Formatting.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Web.Helpers.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Web.Http.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Web.Http.WebHost.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Web.Mvc.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Web.Optimization.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Web.Razor.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Web.WebPages.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Antlr3.Runtime.pdb
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\EntityFramework.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\EntityFramework.SqlServer.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.Owin.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.Owin.Security.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Web.Http.Owin.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.AI.Web.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\obj\Debug\RestApi.csproj.CoreCompileInputs.cache
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\obj\Debug\RestApi.csproj.CopyComplete
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\obj\Debug\RestApi.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\obj\Debug\RestApi.pdb
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\obj\Debug\RestApi.Migrations.sumchartostring215489.resources
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\obj\Debug\RestApi.csproj.GenerateResource.cache
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\obj\Debug\RestApi.csprojAssemblyReference.cache
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\obj\Debug\RestApi.Migrations.lastone.resources
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\N3ini3a\source\repos\RestApi\RestApi\obj\Debug\RestApi.Migrations.SumRefDateColumnadded.resources
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\ApplicationInsights.config
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\RestApi.dll.config
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\RestApi.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\RestApi.pdb
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\csc.exe
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\csc.exe.config
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\csc.rsp
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\csi.exe
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\csi.exe.config
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\csi.rsp
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.AppContext.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.Console.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\vbc.exe
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\vbc.exe.config
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\vbc.rsp
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Antlr3.Runtime.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\EntityFramework.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\EntityFramework.SqlServer.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.AI.Web.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.Owin.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.Owin.Security.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Newtonsoft.Json.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Owin.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Net.Http.Formatting.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Web.Helpers.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Web.Http.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Web.Http.Owin.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Web.Http.WebHost.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Web.Mvc.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Web.Optimization.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Web.Razor.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Web.WebPages.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\WebGrease.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Newtonsoft.Json.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Net.Http.Formatting.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Web.Helpers.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Web.Http.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Web.Http.WebHost.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Web.Mvc.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Web.Optimization.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Web.Razor.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Web.WebPages.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Antlr3.Runtime.pdb
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\EntityFramework.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\EntityFramework.SqlServer.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.Owin.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.Owin.Security.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Web.Http.Owin.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.AI.Web.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\obj\Debug\RestApi.csprojAssemblyReference.cache
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\obj\Debug\RestApi.Migrations.sumchartostring215489.resources
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\obj\Debug\RestApi.Migrations.lastone.resources
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\obj\Debug\RestApi.Migrations.SumRefDateColumnadded.resources
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\obj\Debug\RestApi.csproj.GenerateResource.cache
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\obj\Debug\RestApi.csproj.CoreCompileInputs.cache
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\obj\Debug\RestApi.csproj.CopyComplete
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\obj\Debug\RestApi.dll
+C:\Users\N3ini3a\Desktop\RestApi\RestApi\obj\Debug\RestApi.pdb
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\ApplicationInsights.config
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\RestApi.dll.config
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\RestApi.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\RestApi.pdb
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\csc.exe
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\csc.exe.config
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\csc.rsp
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\csi.exe
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\csi.exe.config
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\csi.rsp
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.AppContext.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.Console.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\vbc.exe
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\vbc.exe.config
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\vbc.rsp
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Antlr3.Runtime.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\EntityFramework.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\EntityFramework.SqlServer.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.AI.Web.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.Owin.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Newtonsoft.Json.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Owin.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Net.Http.Formatting.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Web.Helpers.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Web.Http.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Web.Http.Owin.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Web.Http.WebHost.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Web.Mvc.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Web.Optimization.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Web.Razor.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Web.WebPages.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\WebGrease.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Newtonsoft.Json.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Net.Http.Formatting.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Web.Helpers.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Web.Http.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Web.Http.WebHost.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Web.Mvc.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Web.Optimization.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Web.Razor.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Web.WebPages.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Antlr3.Runtime.pdb
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\EntityFramework.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\EntityFramework.SqlServer.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.Owin.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Web.Http.Owin.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.AI.Web.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\obj\Debug\RestApi.csprojAssemblyReference.cache
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\obj\Debug\RestApi.Migrations.sumchartostring215489.resources
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\obj\Debug\RestApi.Migrations.lastone.resources
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\obj\Debug\RestApi.Migrations.SumRefDateColumnadded.resources
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\obj\Debug\RestApi.csproj.GenerateResource.cache
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\obj\Debug\RestApi.csproj.CoreCompileInputs.cache
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\obj\Debug\RestApi.csproj.CopyComplete
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\obj\Debug\RestApi.dll
+C:\Users\N3ini3a\Desktop\RestApi - Copy\RestApi\obj\Debug\RestApi.pdb
+D:\Amechnou\RestApi - Copy\RestApi\obj\Debug\RestApi.Migrations.sumchartostring215489.resources
+D:\Amechnou\RestApi - Copy\RestApi\obj\Debug\RestApi.Migrations.lastone.resources
+D:\Amechnou\RestApi - Copy\RestApi\obj\Debug\RestApi.Migrations.SumRefDateColumnadded.resources
+D:\Amechnou\RestApi - Copy\RestApi\obj\Debug\RestApi.csproj.GenerateResource.cache
+D:\Amechnou\RestApi - Copy\RestApi\obj\Debug\RestApi.csproj.CoreCompileInputs.cache
+D:\Amechnou\RestApi - Copy\RestApi\obj\Debug\RestApi.dll
+D:\Amechnou\RestApi - Copy\RestApi\obj\Debug\RestApi.pdb
+D:\Amechnou\RestApi - Copy\RestApi\bin\ApplicationInsights.config
+D:\Amechnou\RestApi - Copy\RestApi\bin\RestApi.dll.config
+D:\Amechnou\RestApi - Copy\RestApi\bin\RestApi.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\RestApi.pdb
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\csc.exe
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\csc.exe.config
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\csc.rsp
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\csi.exe
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\csi.exe.config
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\csi.rsp
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.AppContext.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.Console.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.IO.Compression.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.IO.FileSystem.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.IO.Pipes.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.Security.AccessControl.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.Security.Claims.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.ValueTuple.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.Xml.XPath.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\vbc.exe
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\vbc.exe.config
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\vbc.rsp
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\VBCSCompiler.exe
+D:\Amechnou\RestApi - Copy\RestApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Amechnou\RestApi - Copy\RestApi\bin\Antlr3.Runtime.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\EntityFramework.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\EntityFramework.SqlServer.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.AI.Web.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.AI.WindowsServer.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.ApplicationInsights.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.Owin.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Google.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Newtonsoft.Json.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\Owin.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Net.Http.Formatting.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Web.Helpers.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Web.Http.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Web.Http.Owin.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Web.Http.WebHost.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Web.Mvc.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Web.Optimization.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Web.Razor.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Web.WebPages.Deployment.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Web.WebPages.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Web.WebPages.Razor.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\WebGrease.dll
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\Newtonsoft.Json.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Net.Http.Formatting.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Web.Helpers.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Web.Http.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Web.Http.WebHost.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Web.Mvc.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Web.Optimization.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Web.Razor.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Web.WebPages.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Web.WebPages.Deployment.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Web.WebPages.Razor.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\Antlr3.Runtime.pdb
+D:\Amechnou\RestApi - Copy\RestApi\bin\EntityFramework.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\EntityFramework.SqlServer.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.Owin.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Google.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Web.Http.Owin.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.AI.WindowsServer.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.AI.Web.xml
+D:\Amechnou\RestApi - Copy\RestApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Amechnou\RestApi - Copy\RestApi\obj\Debug\RestApi.csproj.CopyComplete
+D:\Docker B\RestApi - Copy\RestApi\bin\ApplicationInsights.config
+D:\Docker B\RestApi - Copy\RestApi\bin\RestApi.dll.config
+D:\Docker B\RestApi - Copy\RestApi\bin\RestApi.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\RestApi.pdb
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\csc.exe
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\csc.exe.config
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\csc.rsp
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\csi.exe
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\csi.exe.config
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\csi.rsp
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.AppContext.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.Console.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.IO.Compression.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.IO.FileSystem.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.IO.Pipes.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.Security.AccessControl.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.Security.Claims.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.ValueTuple.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.Xml.XPath.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\vbc.exe
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\vbc.exe.config
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\vbc.rsp
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\VBCSCompiler.exe
+D:\Docker B\RestApi - Copy\RestApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Docker B\RestApi - Copy\RestApi\bin\Antlr3.Runtime.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\EntityFramework.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\EntityFramework.SqlServer.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.AI.Web.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.AI.WindowsServer.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.ApplicationInsights.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.Owin.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Google.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Newtonsoft.Json.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Owin.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Net.Http.Formatting.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Web.Helpers.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Web.Http.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Web.Http.Owin.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Web.Http.WebHost.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Web.Mvc.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Web.Optimization.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Web.Razor.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Web.WebPages.Deployment.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Web.WebPages.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Web.WebPages.Razor.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\WebGrease.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Docker B\RestApi - Copy\RestApi\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\Newtonsoft.Json.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Net.Http.Formatting.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Web.Helpers.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Web.Http.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Web.Http.WebHost.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Web.Mvc.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Web.Optimization.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Web.Razor.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Web.WebPages.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Web.WebPages.Deployment.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Web.WebPages.Razor.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\Antlr3.Runtime.pdb
+D:\Docker B\RestApi - Copy\RestApi\bin\EntityFramework.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\EntityFramework.SqlServer.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.Owin.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Google.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Web.Http.Owin.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.AI.WindowsServer.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.AI.Web.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Docker B\RestApi - Copy\RestApi\obj\Debug\RestApi.csprojAssemblyReference.cache
+D:\Docker B\RestApi - Copy\RestApi\obj\Debug\RestApi.Migrations.sumchartostring215489.resources
+D:\Docker B\RestApi - Copy\RestApi\obj\Debug\RestApi.Migrations.lastone.resources
+D:\Docker B\RestApi - Copy\RestApi\obj\Debug\RestApi.Migrations.SumRefDateColumnadded.resources
+D:\Docker B\RestApi - Copy\RestApi\obj\Debug\RestApi.csproj.GenerateResource.cache
+D:\Docker B\RestApi - Copy\RestApi\obj\Debug\RestApi.csproj.CoreCompileInputs.cache
+D:\Docker B\RestApi - Copy\RestApi\obj\Debug\RestApi.csproj.CopyComplete
+D:\Docker B\RestApi - Copy\RestApi\obj\Debug\RestApi.dll
+D:\Docker B\RestApi - Copy\RestApi\obj\Debug\RestApi.pdb
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Web.Cors.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Web.Http.Cors.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\System.Web.Http.Cors.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.Owin.Host.HttpListener.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.Owin.Hosting.dll
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.Owin.Host.HttpListener.xml
+D:\Docker B\RestApi - Copy\RestApi\bin\Microsoft.Owin.Hosting.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\ApplicationInsights.config
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\RestApi.dll.config
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\RestApi.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\RestApi.pdb
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\csc.exe
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\csc.exe.config
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\csc.rsp
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\csi.exe
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\csi.exe.config
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\csi.rsp
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.AppContext.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.Console.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.IO.Compression.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.IO.FileSystem.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.IO.Pipes.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.Security.AccessControl.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.Security.Claims.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.ValueTuple.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.Xml.XPath.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\vbc.exe
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\vbc.exe.config
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\vbc.rsp
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\VBCSCompiler.exe
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Antlr3.Runtime.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\EntityFramework.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\EntityFramework.SqlServer.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.AI.Web.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.AI.WindowsServer.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.ApplicationInsights.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.Owin.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.Owin.Host.HttpListener.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.Owin.Hosting.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.Owin.Security.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.Owin.Security.Google.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Newtonsoft.Json.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Owin.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Net.Http.Formatting.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Web.Cors.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Web.Helpers.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Web.Http.Cors.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Web.Http.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Web.Http.Owin.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Web.Http.WebHost.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Web.Mvc.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Web.Optimization.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Web.Razor.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Web.WebPages.Deployment.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Web.WebPages.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Web.WebPages.Razor.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\WebGrease.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.Owin.Host.HttpListener.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.Owin.Hosting.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Net.Http.Formatting.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Web.Http.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Web.Http.Cors.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Web.Http.Owin.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Newtonsoft.Json.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Web.Helpers.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Web.Http.WebHost.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Web.Mvc.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Web.Optimization.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Web.Razor.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Web.WebPages.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Web.WebPages.Deployment.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Web.WebPages.Razor.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Antlr3.Runtime.pdb
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\EntityFramework.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\EntityFramework.SqlServer.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.Owin.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.Owin.Security.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.Owin.Security.Google.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.AI.WindowsServer.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.AI.Web.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Docker B\RestApi - Copy - Copy\RestApi\obj\Debug\RestApi.csprojAssemblyReference.cache
+D:\Docker B\RestApi - Copy - Copy\RestApi\obj\Debug\RestApi.Migrations.sumchartostring215489.resources
+D:\Docker B\RestApi - Copy - Copy\RestApi\obj\Debug\RestApi.Migrations.lastone.resources
+D:\Docker B\RestApi - Copy - Copy\RestApi\obj\Debug\RestApi.Migrations.SumRefDateColumnadded.resources
+D:\Docker B\RestApi - Copy - Copy\RestApi\obj\Debug\RestApi.csproj.GenerateResource.cache
+D:\Docker B\RestApi - Copy - Copy\RestApi\obj\Debug\RestApi.csproj.CoreCompileInputs.cache
+D:\Docker B\RestApi - Copy - Copy\RestApi\obj\Debug\RestApi.csproj.CopyComplete
+D:\Docker B\RestApi - Copy - Copy\RestApi\obj\Debug\RestApi.dll
+D:\Docker B\RestApi - Copy - Copy\RestApi\obj\Debug\RestApi.pdb
