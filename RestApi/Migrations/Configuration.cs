@@ -10,6 +10,7 @@ namespace RestApi.Migrations
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
+            SetSqlGenerator("MySql.Data.MySqlClient", new MySql.Data.Entity.MySqlMigrationSqlGenerator());
         }
 
         protected override void Seed(RestApi.Models.ApplicationDbContext context)
@@ -19,5 +20,8 @@ namespace RestApi.Migrations
             //  You can use the DbSet<T>.AddOrUpdate() helper extension method 
             //  to avoid creating duplicate seed data.
         }
+        
+
+
     }
 }

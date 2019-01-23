@@ -28,7 +28,7 @@ namespace RestApi.Providers
             //var userStore = new UserStore<ApplicationUser>(new ApplicationDbContext());
             // var manager = new UserManager<ApplicationUser>(userStore);
             //AuthRepository AuthRepo = new AuthRepository();
-            var user = Repository.Repository.Exists(context.UserName, context.Password);
+            var user = Repository.UserRepository.Exists(context.UserName, context.Password);
 
             if (user != null)
             {

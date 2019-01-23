@@ -7,7 +7,6 @@ using System.Net.Http;
 using System.Web;
 using System.Web.Http;
 using System.Web.Http.Cors;
-using WebApplication1.Models;
 
 namespace RestApi.Controllers
 {
@@ -16,30 +15,29 @@ namespace RestApi.Controllers
     {
         // GET api/<controller>
         [Authorize]
-        public IEnumerable<User> Get()
+        public IEnumerable<user> Get()
         {
             var b = HttpContext.Current.Request;
             var a = Request;
-            return Repository.Repository.Users;
+            return Repository.UserRepository.Users();
         }
 
         // GET api/<controller>/5
         [Authorize]
-        public User Get(Guid id)
+        public user Get(Guid id)
         {
-            return Repository.Repository.GetUser(id);
+            return Repository.UserRepository.GetUser(id);
         }
 
         // POST api/<controller>
         
-        public void Post([FromBody]User value)
+        public void Post([FromBody]user value)
         {
-            var b = HttpContext.Current.Request;
-            var a = Request;
+
             
             try
             {
-                Repository.Repository.AddNewUser(value);
+                Repository.UserRepository.AddNewUser(value);
 
 
             }
@@ -52,11 +50,11 @@ namespace RestApi.Controllers
 
         // PUT api/<controller>/5
         [Authorize]
-        public void Put(Guid id, [FromBody] User value)
+        public void Put(Guid id, [FromBody] user value)
         {
             try
             {
-                Repository.Repository.EditUser(id, value);
+                Repository.UserRepository.EditUser(id, value);
             }
             catch (Exception e)
             {
@@ -71,7 +69,7 @@ namespace RestApi.Controllers
         {
             try
             {
-                Repository.Repository.DeleteUser(id);
+                Repository.UserRepository.DeleteUser(id);
 
             }
             catch (Exception e)
@@ -80,46 +78,7 @@ namespace RestApi.Controllers
             }
         }
 
-        [Authorize]
-        public void AddProduct(Guid id, [FromBody] Product value)
-        {
-            try
-            {
-                Repository.Repository.AddProduct(id, value);
-
-            }
-            catch (Exception e)
-            {
-                throw new HttpResponseException(Request.CreateErrorResponse(HttpStatusCode.InternalServerError, "Error While adding a new product"));
-            }
-        }
-        [Route("DeleteProduct/{userid}/{product}")]
-        [Authorize]
-        public void DeleteProduct(Guid userid, Guid product)
-        {
-            try
-            {
-                Repository.Repository.RemoveProduct(userid, product);
-
-            }
-            catch (Exception e)
-            {
-                throw new HttpResponseException(Request.CreateErrorResponse(HttpStatusCode.InternalServerError, "Error While deleting a  product"));
-            }
-        }
-
-        public List<Product> getUserProducts(Guid id)
-        {
-            try
-            {
-                return Repository.Repository.getUserProducts(id);
-
-            }
-            catch (Exception e)
-            {
-                throw new HttpResponseException(Request.CreateErrorResponse(HttpStatusCode.InternalServerError, "Error While fetching a product"));
-            }
-        }
+        
 
 
     }

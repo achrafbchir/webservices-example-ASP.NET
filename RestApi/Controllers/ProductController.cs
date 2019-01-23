@@ -14,25 +14,25 @@ namespace RestApi.Controllers
     {
         // GET api/<controller>
         
-        public IEnumerable<Product> Get()
+        public IEnumerable<product> Get()
         {
-            return Repository.Repository.Products;
+            return Repository.ProductRepository.Products();
         }
 
         // GET api/<controller>/5
         [Authorize]
-        public Product Get(Guid id)
+        public product Get(Guid id)
         {
-            return Repository.Repository.GetProduct(id);
+            return Repository.ProductRepository.GetProduct(id);
         }
 
         // POST api/<controller>
         [Authorize]
-        public HttpResponseMessage Post(Product value)
+        public HttpResponseMessage Post(product value)
         {
             try
             {
-                Repository.Repository.AddNewProduct((Product)value);
+                Repository.ProductRepository.AddNewProduct((product)value);
 
 
             }
@@ -45,11 +45,11 @@ namespace RestApi.Controllers
 
         // PUT api/<controller>/5
         [Authorize]
-        public void Put(Guid id, [FromBody]Product value)
+        public void Put(Guid id, [FromBody]product value)
         {
             try
             {
-                Repository.Repository.Edit(id, value);
+                Repository.ProductRepository.Edit(id, value);
 
             }
             catch (Exception e)
@@ -66,7 +66,7 @@ namespace RestApi.Controllers
 
             try
             {
-                Repository.Repository.Delete(id);
+                Repository.ProductRepository.Delete(id);
 
             }
             catch (Exception e)

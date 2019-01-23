@@ -8,6 +8,7 @@ using System.Web;
 using System.Web.Http;
 using System.Web.Http.Cors;
 using System.Web.Http.ModelBinding;
+using System.Web.ModelBinding;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
@@ -18,7 +19,6 @@ using RestApi.Models;
 using RestApi.Providers;
 using RestApi.Results;
 using RestApi.Utilities;
-using WebApplication1.Models;
 
 namespace RestApi.Controllers
 {
@@ -59,7 +59,7 @@ namespace RestApi.Controllers
         // POST api/Account/Register
         [AllowAnonymous]
         [Route("Register")]
-        public  IHttpActionResult Register(User model)
+        public  IHttpActionResult Register( user model)
         {
             if (!ModelState.IsValid)
             {
@@ -67,7 +67,7 @@ namespace RestApi.Controllers
             }
             try
             {
-                Repository.Repository.AddNewUser(model);
+                Repository.UserRepository.AddNewUser(model);
                 
             }
             catch(Exception e)
