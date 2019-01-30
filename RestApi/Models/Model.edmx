@@ -29,6 +29,7 @@
           <Property Name="description" Type="longtext" />
           <Property Name="price" Type="bigint" Nullable="false" />
           <Property Name="quantity" Type="int" Nullable="false" />
+          <Property Name="image" Type="varchar" MaxLength="100" Nullable="false" />
           <Property Name="User_Id" Type="guid" />
         </EntityType>
         <EntityType Name="users">
@@ -117,6 +118,7 @@
           <Property Name="quantity" Type="Int32" Nullable="false" />
           <Property Name="User_Id" Type="Guid" />
           <NavigationProperty Name="user" Relationship="Self.FK_Products_Users_User_Id" FromRole="products" ToRole="users" />
+          <Property Name="image" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
         </EntityType>
         <EntityType Name="user">
           <Key>
@@ -209,6 +211,7 @@
           <EntitySetMapping Name="products">
             <EntityTypeMapping TypeName="Model.product">
               <MappingFragment StoreEntitySet="products">
+                <ScalarProperty Name="image" ColumnName="image" />
                 <ScalarProperty Name="C_Id" ColumnName="_Id" />
                 <ScalarProperty Name="name" ColumnName="name" />
                 <ScalarProperty Name="description" ColumnName="description" />

@@ -24,6 +24,7 @@
     <Property Name="description" Type="longtext" />
     <Property Name="price" Type="bigint" Nullable="false" />
     <Property Name="quantity" Type="int" Nullable="false" />
+    <Property Name="image" Type="varchar" MaxLength="100" Nullable="false" />
     <Property Name="User_Id" Type="guid" />
   </EntityType>
   <EntityType Name="users">

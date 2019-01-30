@@ -12,8 +12,9 @@ namespace RestApi.Controllers
     public class CartController : ApiController
     {
 
-        [Authorize]
+        
         [Route("DeleteProduct/{userid}/{product}")]
+        //[Authorize]
         public void DeleteProduct(string userid,string product)
         {
             try
@@ -30,6 +31,7 @@ namespace RestApi.Controllers
 
 
         // GET api/<controller>/5
+        [Authorize]
         public List<product> Get(Guid id)
         {
             List<product> products = null;
@@ -47,7 +49,7 @@ namespace RestApi.Controllers
 
         // POST api/<controller>
         //[Route("AddProduct/{id}")]
-        //[Authorize]
+        [Authorize]
         public void AddProduct(Guid id, [FromBody] product value)
         {
             try
@@ -60,7 +62,21 @@ namespace RestApi.Controllers
                 throw new HttpResponseException(Request.CreateErrorResponse(HttpStatusCode.InternalServerError, "Error While adding a new product"));
             }
         }
+        [Route("CheckOut/{userid}")]
+        [Authorize]
+        [HttpGet]
+        public void CheckOut(Guid userid)
+        {
+            try
+            {
+                Repository.CartRepository.CheckOut(userid);
 
+            }
+            catch (Exception e)
+            {
+                throw new HttpResponseException(Request.CreateErrorResponse(HttpStatusCode.InternalServerError, "Error While adding a new product"));
+            }
+        }
         // PUT api/<controller>/5
         public void Put(int id, [FromBody]string value)
         {

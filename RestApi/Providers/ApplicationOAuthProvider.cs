@@ -34,6 +34,7 @@ namespace RestApi.Providers
             {
                 var identity = new ClaimsIdentity(context.Options.AuthenticationType);
                 identity.AddClaim(new Claim("Name", user.Name));
+                identity.AddClaim(new Claim("Id", user.Id.ToString()));
                 //identity.AddClaim(new Claim("charSum", user.charSum.ToString()));
                 identity.AddClaim(new Claim("LoggedOn", DateTime.Now.ToString()));
                 //var key = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes("545454545"));

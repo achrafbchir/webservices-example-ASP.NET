@@ -20,6 +20,7 @@ namespace RestApi.Models
         public long price { get; set; }
         public int quantity { get; set; }
         public Nullable<System.Guid> User_Id { get; set; }
+        public string image { get; set; }
     
         public virtual user user { get; set; }
     }

@@ -35,17 +35,17 @@ namespace RestApi.Repository
                     newitem.Cart_CartId = product.C_Id;
                     newitem.cart = dbContext.users.Where(u => u.Id == id).FirstOrDefault().cart;
                     newitem.product_Id = product.C_Id;
-                    newitem.quantity = 0;
+                    newitem.quantity = product.quantity;
                     dbContext.items.Add(newitem);
 
-                    stock.quantity--;
+                    //stock.quantity--;
                     dbContext.SaveChanges();
                 }
-                else if(item  && stock.quantity > 1)
+                else if(item  && stock.quantity - product.quantity >= 0)
                 {
                     item myitem = dbContext.items.Where(i => i.product_Id == product.C_Id && i.Cart_CartId == CartId).FirstOrDefault();
-                    myitem.quantity++;
-                    stock.quantity--;
+                    myitem.quantity += product.quantity;
+                    //stock.quantity -= product.quantity; 
                     dbContext.SaveChanges();
                 }
                 
@@ -59,15 +59,44 @@ namespace RestApi.Repository
             {
                 var CartId = user.Cart_CartId;
                 item item = dbContext.items.Where(i => i.Cart_CartId == CartId && i.product_Id == product).FirstOrDefault();
-                if (item.quantity > 1)
-                    item.quantity--;
-                else
+                if(item != null)
+                {
                     dbContext.items.Remove(item);
-                dbContext.SaveChanges();
+                    dbContext.SaveChanges();
+                }
+                //if (item.quantity > 1)
+                //    item.quantity--;
+                //else
+                    
 
             }
 
          
+        }
+
+        public static void CheckOut(Guid id)
+        {
+            user user = UserRepository.GetUser(id);
+            if (user != null)
+            {
+                var CartId = user.Cart_CartId;
+                List<item> items = dbContext.items.Where(i => i.Cart_CartId == CartId).ToList();
+                if (items != null)
+                {
+                    foreach(item item in items)
+                    {
+                        product myproduct = dbContext.products.Where(p => p.C_Id == item.product_Id).FirstOrDefault();
+                        if(myproduct != null)
+                        {
+                            myproduct.quantity -= item.quantity;
+                           
+                        }
+                    }
+                    dbContext.items.RemoveRange(items);
+                    dbContext.SaveChanges();
+                }
+
+            }
         }
 
         public static List<product> getUserProducts(Guid id)

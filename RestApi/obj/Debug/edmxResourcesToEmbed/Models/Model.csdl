@@ -19,6 +19,7 @@
     <Property Name="quantity" Type="Int32" Nullable="false" />
     <Property Name="User_Id" Type="Guid" />
     <NavigationProperty Name="user" Relationship="Self.FK_Products_Users_User_Id" FromRole="products" ToRole="users" />
+    <Property Name="image" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
   </EntityType>
   <EntityType Name="user">
     <Key>

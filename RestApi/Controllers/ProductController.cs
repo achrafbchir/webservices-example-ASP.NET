@@ -19,10 +19,16 @@ namespace RestApi.Controllers
             return Repository.ProductRepository.Products();
         }
 
+        public IEnumerable<product> Get(int page,int count)
+        {
+            return Repository.ProductRepository.Paginate(page, count);
+        }
+
         // GET api/<controller>/5
-        [Authorize]
+       // [Authorize]
         public product Get(Guid id)
         {
+            product product = Repository.ProductRepository.GetProduct(id);
             return Repository.ProductRepository.GetProduct(id);
         }
 
